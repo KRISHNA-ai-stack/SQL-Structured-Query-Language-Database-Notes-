@@ -1,9 +1,9 @@
 This are my SQL Notes  
-Part - 1  
-Part - 2  
+*PART - 1*  
+*PART - 2*  
 
 Notes Taken ? From Apna College Sigma 8.0 Batch .....  
 Notes Introduction___  
-DDL DML and There Most Imortant Command's  
-Working with Database and Table  
+DDL DML and There Most Important Command's  
+Working with Database and Table ( *MANIPULATION* )
 
